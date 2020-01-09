@@ -1,5 +1,6 @@
 # Lambd scheduling job in AWS 
-I have two examples.
+Here are two examples for Lambda scheduling
+
 Eg1. Create daily summary report using Lambda scheduling
 > Count the number of customer per day for the most recent 3 months.
 
